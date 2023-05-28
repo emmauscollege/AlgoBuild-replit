@@ -1,4 +1,5 @@
 #compile = "javac -classpath .:target/dependency/* -d . $(find . -type f -name '*.java')"
+compile = ""
 run = "java -jar AlgoBuild085.jar"
 entrypoint = "README.md"
 hidden = ["**/*.class"]
