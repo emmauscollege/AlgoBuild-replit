@@ -1,6 +1,7 @@
 # Algobuild in replit
 
 [![Run on Repl.it](https://replit.com/badge/github/emmauscollege/AlgoBuild-replit)](https://replit.com/github/emmauscollege/AlgoBuild-replit)<br>
+Choose the language "Java" when importing from Github
 
 Algobuild is a flow chart tool. <br> 
 It is written in Java an can be run in replit. <br>
