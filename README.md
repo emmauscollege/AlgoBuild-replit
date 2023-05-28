@@ -8,3 +8,4 @@ maximize the output-pane in replit to use the application full screen.
 More information on
 https://algobuild.com/en/index.html
 
+
